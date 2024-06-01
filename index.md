@@ -5,3 +5,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] ICS today
+- [x] Cleaning today
+- [x] Lunch Today
